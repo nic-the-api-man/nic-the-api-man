@@ -1,14 +1,15 @@
 # Hello, I'm Nic!
 <a href="[https://linkedin.com](https://www.linkedin.com/in/nicolas-m-2700a3183/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Cybersecurity consultant exploring different projects in my freetime.
 -Security+, EX-CSA, CISMP
 
 ## Objective
 
-My journey in cybersecurity. Some projects and write ups in my spare time.
+My journey in cybersecurity. 
+- Personal Projects
+- Write ups
+- Threat Research
 
 ## Skills
 
