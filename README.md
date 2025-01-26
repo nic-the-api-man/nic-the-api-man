@@ -2,7 +2,7 @@
 <a href="[https://linkedin.com](https://www.linkedin.com/in/nicolas-m-2700a3183/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity consultant exploring different projects in my freetime.
--Security+, EX-CSA, CISMP
+-Security+, EC-CSA, CISMP
 
 ## Objective
 
@@ -35,13 +35,12 @@ My journey in cybersecurity.
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
 - Detection Lab
+- Personal SOC
 - SOC Automation Project
