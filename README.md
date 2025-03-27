@@ -15,6 +15,7 @@ My journey in cybersecurity.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|Honeypots and Threat Research                  | TPotce Honeypot Lab|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
