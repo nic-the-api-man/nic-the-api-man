@@ -2,7 +2,7 @@
 
 
 Cybersecurity consultant exploring different projects in my freetime.
--Security+, EC-CSA, CISMP
+Security+, EC-CSA, CISMP
 
 ## Objective
 
