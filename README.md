@@ -46,4 +46,4 @@ I document and share my cybersecurity journey through:
 
 ---
 
-> _"Stay curious. Stay paranoid."_ 🧠🔒
+> _"Stay consistent"_
