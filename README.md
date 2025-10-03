@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Nic
 
 💻 Cybersecurity consultant with a passion for building, learning, trying to break and fix things.  
-📚 Security+ | CRTIA | EC-CSA | CISMP
+📚 Security+ | CRTIA | EC-CSA | CISMP | <a href="https://www.abuseipdb.com/user/237384" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+  <img src="https://www.abuseipdb.com/contributor/237384.svg" alt="AbuseIPDB Contributor Badge" style="width: 487px;">
+</a>
 
 ---
 
@@ -37,7 +39,7 @@ I document and share my cybersecurity journey through:
 
 ---
 
-## 📜 Certifications
+## 📜 Certs
 
 ![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![CRTIA](https://img.shields.io/badge/-CRTIA-005A9C?&style=for-the-badge&logo=Microsoft&logoColor=white)
