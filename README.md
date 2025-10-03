@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Nic
 
 💻 Cybersecurity consultant with a passion for building, learning, trying to break and fix things.  
-📚 Security+ | CRTIA | EC-CSA | CISMP | <a href="https://www.abuseipdb.com/user/237384" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-  <img src="https://www.abuseipdb.com/contributor/237384.svg" alt="AbuseIPDB Contributor Badge" style="width: 487px;">
-</a>
+📚 Security+ | CRTIA | EC-CSA | CISMP 
 
 ---
 
@@ -45,6 +43,10 @@ I document and share my cybersecurity journey through:
 ![CRTIA](https://img.shields.io/badge/-CRTIA-005A9C?&style=for-the-badge&logo=Microsoft&logoColor=white)
 ![EC-CSA](https://img.shields.io/badge/-EC--CSA-000000?&style=for-the-badge&logo=Hackaday&logoColor=white)
 ![CISMP](https://img.shields.io/badge/-CISMP-00758F?&style=for-the-badge&logo=Accenture&logoColor=white)
+
+<a href="https://www.abuseipdb.com/user/237384" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+  <img src="https://www.abuseipdb.com/contributor/237384.svg" alt="AbuseIPDB Contributor Badge" style="width: 487px;">
+</a>
 
 ---
 
