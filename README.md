@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nic
+# Hi, I'm Nic
 
 💻 Cybersecurity consultant with a passion for building, learning, trying to break and fix things.  
 📚 Security+ | CRTIA | EC-CSA | CISMP 
@@ -20,6 +20,7 @@ I document and share my cybersecurity journey through:
 | 🧠 Skill Area                                   | 🗂️ Project / Lab                |
 |------------------------------------------------|--------------------------------|
 | Honeypots & Threat Research                    | TPotce Honeypot Lab            |
+|
 | SIEM & Log Analysis                            | [Detection Lab](https://google.com) |
 | Network Traffic Monitoring                     | [Detection Lab](https://google.com) |
 | Security Automation (SOAR)                     | SOC Automation Lab             |
