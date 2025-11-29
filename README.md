@@ -22,7 +22,7 @@ I document and share my cybersecurity journey through:
 | Honeypots & Threat Research                    | TPotce Honeypot Lab            |
 | SIEM & Log Analysis                            | [Detection Lab](https://google.com) |
 | Network Traffic Monitoring                     | [Detection Lab](https://google.com) |
-| Attack and Defense Lab Series                    | [Attack and Defense Lab Series(https://github.com/nic-the-api-man/Attack-Defense-Homelab/tree/main)]       |
+| Attack and Defense Lab Series                    | [Attack and Defense Lab Series](https://github.com/nic-the-api-man/Attack-Defense-Homelab/tree/main)      |
 | DNS Protocol & Network Programming (Python)    | [Codecrafters DNS Server](https://github.com/nic-the-api-man/DNS-Server-in-Python) |
 ---
 
