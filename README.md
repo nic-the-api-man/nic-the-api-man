@@ -1,23 +1,23 @@
 # Hi, I'm Nic
 
-💻 Cybersecurity consultant with a passion for building, learning, trying to break and fix things.  
-📚 Security+ | CRTIA | EC-CSA | CISMP 
+Cybersecurity consultant with a passion for building, learning, trying to break and fix things.  
+Security+ | CRTIA | EC-CSA | CISMP 
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 I document and share my cybersecurity journey through:
 
-- 🛠️ Personal Projects  
-- ✍️ Writeups & Notes  
-- 🧠 Threat Research  
+- Personal Projects  
+- Writeups & Notes  
+- Threat Research  
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
-| 🧠 Skill Area                                   | 🗂️ Project / Lab                |
+| Skill Area                                   | Project / Lab                |
 |------------------------------------------------|--------------------------------|
 | Honeypots & Threat Research                    | TPotce Honeypot Lab            |
 | SIEM & Log Analysis                            | [Detection Lab](https://google.com) |
@@ -37,7 +37,7 @@ I document and share my cybersecurity journey through:
 
 ---
 
-## 📜 Certs
+## Certs
 
 ![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![CRTIA](https://img.shields.io/badge/-CRTIA-005A9C?&style=for-the-badge&logo=Microsoft&logoColor=white)
